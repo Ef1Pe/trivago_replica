@@ -1,0 +1,126 @@
+[
+  {
+    "section": "index",
+    "type": "deal",
+    "title": "Four Seasons Denver",
+    "location": "Denver, USA",
+    "rating": "9.4 Exceptional (1,202)",
+    "perks": ["Spa credit", "Free cancellation"],
+    "price": "$245",
+    "image": "https://images.unsplash.com/photo-1485182708500-e8f1f318ba72?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "section": "index",
+    "type": "deal",
+    "title": "Ace Hotel Sydney",
+    "location": "Sydney, AUS",
+    "rating": "8.8 Excellent (2,033)",
+    "perks": ["Rooftop bar", "Late checkout"],
+    "price": "$198",
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "section": "packages",
+    "type": "package",
+    "title": "Iceland aurora quest",
+    "duration": "6 nights · Flight + Hotel",
+    "price": "$1,890",
+    "perks": ["Blue Lagoon pass", "Northern lights tour", "Daily breakfast"],
+    "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "section": "packages",
+    "type": "package",
+    "title": "Bali wellness retreat",
+    "duration": "8 nights · Flight + Villa",
+    "price": "$2,240",
+    "perks": ["Spa rituals", "Infinity pool", "Sunrise yoga"],
+    "image": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210cc?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "section": "guides",
+    "type": "guide",
+    "title": "Seoul after dark",
+    "author": "By Minji Park",
+    "summary": "Where to stay for K-culture, late-night eats, and neon-lit strolls.",
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "section": "guides",
+    "type": "guide",
+    "title": "Cape Town wine country",
+    "author": "By Aiden Clarke",
+    "summary": "Boutique stays nestled between Stellenbosch vineyards and the coast.",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "section": "flights",
+    "type": "flight",
+    "title": "SFO → HND",
+    "duration": "11h 15m · Premium economy",
+    "price": "$1,015",
+    "perks": ["Priority boarding", "Flexible changes"],
+    "image": "https://images.unsplash.com/photo-1474418397713-7ede21d49118?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "section": "flights",
+    "type": "flight",
+    "title": "ATL → LIM",
+    "duration": "6h 45m · Nonstop",
+    "price": "$512",
+    "perks": ["1 checked bag", "In-seat power"],
+    "image": "https://images.unsplash.com/photo-1504199367641-abbcbe73a3ad?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "section": "cars",
+    "type": "car",
+    "title": "Volvo XC60",
+    "duration": "SUV · AWD",
+    "price": "$72/day",
+    "perks": ["Collision damage waiver", "Apple CarPlay"],
+    "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "section": "cars",
+    "type": "car",
+    "title": "Mini Cooper Convertible",
+    "duration": "Compact · Automatic",
+    "price": "$58/day",
+    "perks": ["Unlimited miles", "Roadside assist"],
+    "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "section": "deals-page",
+    "type": "deal",
+    "title": "Aria Resort & Casino",
+    "location": "Las Vegas, USA",
+    "rating": "9.0 Superb (7,842)",
+    "perks": ["Resort credit", "Flexible cancellation"],
+    "price": "$149",
+    "image": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210cc?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "section": "deals-page",
+    "type": "deal",
+    "title": "The Line Austin",
+    "location": "Austin, USA",
+    "rating": "8.6 Great (1,920)",
+    "perks": ["Free bikes", "Rooftop pool"],
+    "price": "$182",
+    "image": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "section": "destinations",
+    "type": "destination",
+    "title": "Wellness escapes",
+    "summary": "Forest baths, thermal spas, and slow stays designed for reset.",
+    "image": "https://images.unsplash.com/photo-1508255139162-e1f7b7288ab7?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "section": "destinations",
+    "type": "destination",
+    "title": "Food capitals",
+    "summary": "Follow tasting menus, market tours, and chef-led workshops.",
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=700&q=80"
+  }
+]
